@@ -1,4 +1,4 @@
-# Housing Prices Prediction - Kaggle natjecanje
+# House Prices Prediction - Kaggle natjecanje
 
 link na natjecanje: [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
